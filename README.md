@@ -7,6 +7,14 @@
 Googleスプレッドシート版は価格やリンク先、リンク先へのQRコード、有効成分一覧などを行っていますので、合わせてご覧ください。  
 https://docs.google.com/spreadsheets/d/1YAuQPf4zmUP64ChGPbhTAuMqqsmbRy6T_R9jD16tyRA/edit?usp=sharing
 
+## 内容
+* forHomeFurniture_ja.csv
+  * 住宅用洗剤のリストです
+  * https://github.com/porolakka/detergentlist/blob/main/forHomeFurniture_ja.csv
+* forKitchen_ja.csv
+  * 台所洗剤のリストです
+  * https://github.com/porolakka/detergentlist/blob/main/forKitchen_ja.csv
+
 ## 何を工夫した？
 商品名と流通経路等の補足情報を分離、結合したセルの解除など（力技）
 
