@@ -2,10 +2,10 @@
 消毒に有効な家庭用洗剤のリスト
 
 ## これは何？
-このリポジトリでは独立行政法人 製品評価技術基盤機構（NITE）が5月22日に発表した「[新型コロナウイルスに有効な界面活性剤を公表します。](https://www.nite.go.jp/information/osirase20200522.html)」の資料、および以後更新されている[リスト](https://www.nite.go.jp/information/osirasedetergentlist.html)をもとに有効と判断された界面活性剤を含む家庭用洗剤のリストを独自に[Googleスプレッドシートにしたもの](https://docs.google.com/spreadsheets/d/1YAuQPf4zmUP64ChGPbhTAuMqqsmbRy6T_R9jD16tyRA/edit?usp=sharing)から、簡易版をCSV形式にして公開しています。
+このリポジトリでは独立行政法人 製品評価技術基盤機構（NITE）が5月22日に発表した「[新型コロナウイルスに有効な界面活性剤を公表します。](https://www.nite.go.jp/information/osirase20200522.html)」の資料、および以後更新されている[リスト](https://www.nite.go.jp/information/osirasedetergentlist.html)をもとに有効と判断された界面活性剤を含む家庭用洗剤のリストを独自に[Googleスプレッドシートにしたもの(v3.3)](https://docs.google.com/spreadsheets/d/1c9-KKokftQfB1cW8PvZChX3-qbjulyeyx1PPBJF-cfk/edit?usp=sharing)から、簡易版をCSV形式にして公開しています。
 
 Googleスプレッドシート版は価格やリンク先、リンク先へのQRコード、有効成分一覧などを行っていますので、合わせてご覧ください。  
-https://docs.google.com/spreadsheets/d/1YAuQPf4zmUP64ChGPbhTAuMqqsmbRy6T_R9jD16tyRA/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1c9-KKokftQfB1cW8PvZChX3-qbjulyeyx1PPBJF-cfk/edit?usp=sharing
 
 ## 意義は何？
 厚生労働省・経済産業省・消費者庁の特設ページでは、新型コロナウイルスの消毒（不活化）には、熱水やアルコール消毒液、次亜塩素酸ナトリウム水溶液、次亜塩素酸水などとともに、家庭用洗剤に使われる一部の界面活性剤が有効であることが紹介されています。  
@@ -50,7 +50,7 @@ https://docs.google.com/spreadsheets/d/1YAuQPf4zmUP64ChGPbhTAuMqqsmbRy6T_R9jD16t
 *出典：[厚生労働省・経済産業省・消費者庁特設ページ「新型コロナウイルスの消毒・除菌方法について」](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/syoudoku_00001.html)*
 
 ## 資料の更新日は？
-10/15
+2021-06-24
 
 ## ライセンスは？
 CC-BY-SA 4.0 国際  
@@ -62,10 +62,11 @@ CC-BY-SA 4.0 国際
 商品購入に伴うトラブルについての責任を資料作成者は負いません。
 
 ## 作業したのは？
-Akira Ochiai (@porolakka)
+Akira Ochiai
 
 ## 変更履歴
-v2の変更点は？	価格コムのアドレス、最安値、販売サイト、価格(欄のみ)を追加。価格コム最安値はスクレイピング。  
-v3の変更点は？	NITEのリストが随時更新されたため、9月30日に公表されたリストをもとに再編集。商品画像列を削除、列順を変更、リスト追加日列を追加。  
-v3.1の変更点は？	有効成分の列を作り、製品に該当する成分があれば確認できるよう変更。QRコード等を省略し、フィルターによる並べ替えができるシートを作成。  
-v3.2の変更点は？	タイトルを変更。補足を追加。
+v2	価格コムのアドレス、最安値、販売サイト、価格(欄のみ)を追加。価格コム最安値はスクレイピング。  
+v3	NITEのリストが随時更新されたため、9月30日に公表されたリストをもとに再編集。商品画像列を削除、列順を変更、リスト追加日列を追加。  
+v3.1	有効成分の列を作り、製品に該当する成分があれば確認できるよう変更。QRコード等を省略し、フィルターによる並べ替えができるシートを作成。  
+v3.2 タイトルを変更。補足を追加。
+v3.3 2021年6月18日のリストに基づいて商品を追加。価格を再調査。
